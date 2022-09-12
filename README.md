@@ -1,5 +1,5 @@
 # Repositoriodeprueba
-# Se le dice un encabezado
+## Se le dice un encabezado
 *cursiva* _cursiva_
 ** negrita** __Negrita__
 
