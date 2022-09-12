@@ -30,4 +30,11 @@ Es un prueba de github de M8 aplicaciones web
 ```
 [link] (http://www.google.com) 
 
-![descargas] https://github.com/MarSalonParera/Repositoriodeprueba/blob/main/descarga.jpg
+![descargas] https://github.com/MarSalonParera/Repositoriodeprueba/blob/main/descarga.jpg *Imagen de descargas*)
+
+ titulo titulo 2 titulo 3
+ |-------:|--------:|---------:|
+  nombre|Apellido|Apellido 2 |
+  nombre|Apellido| Apellido 2|
+  col 3 esta allinada centro|
+  col 2 esta allinada|centro |
