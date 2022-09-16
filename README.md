@@ -32,9 +32,9 @@ Es un prueba de github de M8 aplicaciones web
 
 ![descargas] https://github.com/MarSalonParera/Repositoriodeprueba/blob/main/descarga.jpg *Imagen de descargas*)
 
-  | titulo | Titulo 2 | Titulo 3 | 
-  |--------|:........:|---------:|
+  | titulo | Titulo 2 | Titulo 3| 
+  |--------|:--------:|---------:|
   | Nombre | Apellido | Apellido 2| 
-  |Nombre2 | Apellido 3 | Apellido 4 |
-  |Col 3 | esta alineada | derecha |
-  |Col 4 | esta alineada | central |
+  |Nombre2 | Apellido 3 | Apellido 4|
+  |Col 3 | esta alineada | derecha|
+  |Col 4 | esta alineada | centro|
